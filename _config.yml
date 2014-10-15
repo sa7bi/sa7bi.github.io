@@ -7,20 +7,22 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Sahbi Haj Belgacem
+email:            sahbi21@gmail.com
+tagline:          'A Personal Jekyll Blog'
+description:      Hey my name is Sahbi. I'm currently studying MIS @Hes-so in Switzerland.
+url:              http://sa7bi.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sahbi Haj Belgacem'
+  url:            https://twitter.com/sa7bi
 
 paginate:         5
 
-# Custom vars
+# Social
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+social:
+  github:           https://github.com/sa7bi
+  twitter:          https://twitter.com/sa7bi
+  facebook:         https://facebook.com/sahbi           

@@ -1,11 +1,12 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
+    <img src="{{ site.baseurl }}public/me.jpg" alt="My picture" class="img-circle">
+      <h2>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h1>
+      </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -25,12 +26,11 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+     <a class="social" href="{{ site.social.github }}"><i class="social fa fa-github"></i></a>
+     <a class="social" href="{{ site.social.twitter }}"><i class="social fa fa-twitter"></i></a>
+     <a class="social" href="{{ site.social.facebook }}"><i class="social fa fa-facebook"></i></a>
+      
+      <span class="sidebar-nav-item">Powered by <a href="http://jekyllrb.com">Jekyll</a> & <a href="http://hyde.getpoole.com">Hyde</a></span>
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
