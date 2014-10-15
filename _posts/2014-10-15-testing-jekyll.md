@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Testing Jekyll
-category: jekyll blog testing
 ---
 ### Transition to Jekyll
 <p>Last week, I've discovered Jekyll and immediately fall in love with it. It's simple, easy to configure and deploy, especially using Github pages.
