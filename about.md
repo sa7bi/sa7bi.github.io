@@ -4,13 +4,36 @@ title: About
 ---
 
 <p class="message">
-  Hey there! My name is Sahbi (which it's stand for friendly, I thinks, in Tunisian Arabic)
+  Hey there! My name is Sahbi (which it's stand for friendly, I think, in Tunisian Arabic), living in Switzerland.
 </p>
 
-It's personal blog where I try to share:
+## Who Am I ?
+### Profession
 <ul>
-    <li>some interesting ressources in various diffrents programmings languages</li>
-    <li>some of the projects that I'm working on</li>
+    <li>Freelancer</li>
+    <li>Junior Webdeveloper</li>
+    <li>Student</li>
 </ul>
 
-Thanks for reading!
+### Education
+
+<ul>
+    <li>2012 - 2015 : Bachelor of Science in Business Information Technology 
+        <p><a href="www.he-arc.ch">@ Hes-so, Neuchâtel - Switzerland</a></p></li>
+    <li>2009 - 2011 : Senior Technician in <a href="http://en.wikipedia.org/wiki/Management_information_system">MIS</a></li>
+    <li>2005 - 2008 : Diploma in Economics</li>
+</ul>
+
+### Interested in
+<ul>
+    <li>HTML 5</li>
+    <li>CSS</li>
+    <li>JavaScript (jQuery)</li>
+    <li>PHP</li>
+        <ul>
+            <li>CakePhp</li>
+            <li>Laravel</li>
+        </ul>
+    <li>MySQL, Oracle</li>
+    <li>Mobile : iOS</li>
+</ul>
